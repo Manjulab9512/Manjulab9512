@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manjula dissanayaka
-- 👀 I’m interested in java react 
-- 🌱 I’m currently learning java and react 
+- 👀 I’m interested in javascript react 
+- 🌱 I’m currently learning javascript and react 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
